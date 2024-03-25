@@ -1,4 +1,4 @@
-# Spark Assignment
+# Spark Video Streaming Analysis
 
 ## Background
 
