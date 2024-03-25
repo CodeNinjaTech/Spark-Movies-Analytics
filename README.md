@@ -1,4 +1,4 @@
-# Spark Video Streaming Analysis
+# Spark Movies Analytics
 
 ## Background
 
