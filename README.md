@@ -1,5 +1,7 @@
 # Spark Movies Analytics
 
+Assignment 3 for the Big Data Systems & Architectures Course of AUEB's MSc in Business Analytics
+
 ## Background
 
 You have been hired by a new video streaming company that wants to use data science techniques to optimize their sales. It has been assigned to you to analyze a dataset of movies using Apache Spark (and PySpark, in particular) to reveal useful insights.
